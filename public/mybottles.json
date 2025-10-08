@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Pure 500ml",
+    "brand": "ClearFlow",
+    "durability": 7,
+    "price": 12.99,
+    "color": "Blue",
+    "image": "https://example.com/bottle1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Thermo Steel 750ml",
+    "brand": "PolarPeak",
+    "durability": 9,
+    "price": 24.5,
+    "color": "Silver",
+    "image": "https://example.com/bottle2.jpg",
+    "inStock": false
+  },
+  {
+    "id": 3,
+    "name": "Eco Glass 1000ml",
+    "brand": "GreenStream",
+    "durability": 6,
+    "price": 18.0,
+    "color": "Clear",
+    "image": "https://example.com/bottle3.jpg",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Compact Sip 350ml",
+    "brand": "TinyTote",
+    "durability": 5,
+    "price": 8.99,
+    "color": "Pink",
+    "image": "https://example.com/bottle4.jpg",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Adventure Pro 600ml",
+    "brand": "SummitGear",
+    "durability": 8,
+    "price": 19.75,
+    "color": "Black",
+    "image": "https://example.com/bottle5.jpg",
+    "inStock": true
+  }
+]
